@@ -6,6 +6,10 @@
       color : green;
       background-color : white;
       }
+      div.tit {
+      color : white;
+      background-color : black;
+      }
     </style>
   </head>
   <body>
@@ -13,5 +17,8 @@
     <p>
       This is a website for giving alert about environmental issues and letting you know what you can do to protect The Earth.
     </p>
+    <div class="tit">
+      <div>Home</div>
+    </div>
   </body>
 </html>
