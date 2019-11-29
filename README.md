@@ -1,16 +1,6 @@
 <html>
   <head>
     <title>지구살리기 프로젝트</h1>
-    <style>
-      h1 {
-      color : green;
-      background-color : white;
-      }
-      div.tit {
-      color : white;
-      background-color : black;
-      }
-    </style>
   </head>
   <body>
     <h1>Save the Earth</h1>
