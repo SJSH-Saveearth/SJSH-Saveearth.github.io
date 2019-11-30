@@ -1,2 +1,2 @@
 # SAVE THE EARTH!
-[hi](https://www.google.com)
+<body onload="window.location.href='a.html'"></body>
