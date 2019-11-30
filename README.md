@@ -1,1 +1,1 @@
-<body onload="window.location.href='a.html'"></body>
+<body onload="window.location.href='home.html'"></body>
