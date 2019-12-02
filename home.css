@@ -4,8 +4,6 @@ ul.topnav {
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  position: -webkit-sticky;
-  position: sticky;
 }
 
 ul.topnav li {float: left;}
